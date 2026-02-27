@@ -57,7 +57,7 @@ For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Sup
 
 
 V URSFOUR-2609-4 Home NASA Accessibility
-NASA Official: Doug Newman
+NASA Official: Doug Newman @doug-newman-nasa
 
 Feedback
 
